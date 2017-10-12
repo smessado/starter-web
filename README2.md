@@ -11,3 +11,7 @@
 ## Section 4
 
 ## Section 5
+
+### Copyright
+
+2014 Git.Training
