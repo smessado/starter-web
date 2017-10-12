@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <Stephen Messado stephen.messado@gmail.com @smessado
+    Stephen Messado stephen.messado@gmail.com @smessado
 
 # THANKS
 
-    <name>
+    Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
